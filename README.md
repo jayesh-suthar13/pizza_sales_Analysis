@@ -47,18 +47,9 @@ This project presents a comprehensive sales analysis of a pizza company using Po
 The dataset was sourced from a simulated sales database. SQL queries were used to:
 - Validate total orders, revenue, and pizza sold
 - Cross-check category-wise and size-wise pizza sales
-- Generate summary tables used in Power BI
-
+  
 Key SQL commands (with outputs) are included in a separate document:  
-📄 `SQL_Validation_Report.pdf`
-
 This ensures the Power BI visuals align with raw query results and confirms the accuracy of insights.
 
-## Demo Video
-
-An interactive walkthrough video has been added to demonstrate:
-- Dashboard features
-- Filter and slicer use
-- Key takeaways
 
 
